@@ -24,17 +24,22 @@ I have used three <a href="https://keras.io/api/layers/core_layers/dense/" targe
 
 I used two [Conv2D](https://keras.io/api/layers/convolution_layers/convolution2d/) with maxpooling layer afterwards. Since I am using the Conv2D layers so no need to reshape the images, but still their values need to be normalized between 0 and 1. By using the same optimizer, loss function and evaluation metric. After training the model for 15 epochs I was able to achieve 98.9% accuracy on train set and 99.6% accuracy on test set.
 
-I also crafted a very small dataset to test the model and that data set can be accessed <a href="https://drive.google.com/file/d/1MqC635Heb0jZ-i9dv7LP7_v9o4Vs8vf6/view?usp=sharing" target="_blank">here</a>
+I also crafted a very small dataset to test the model and that data set can be accessed <a href="https://drive.google.com/drive/folders/1-EzOmdXmAiJF5JMZIVX3A_n_dTI-fdud?usp=sharing" target="_blank">here</a>
 
 Some of the example images are shown below
 
-<!-- ![example image of handwritten 1](https://drive.google.com/file/d/1-NdWWHU2DRuNMBm9ZHNMqeh7TcMdhBT9/view?usp=sharing) -->
+![example image of handwritten 1](https://drive.google.com/file/d/1-NdWWHU2DRuNMBm9ZHNMqeh7TcMdhBT9/view?usp=sharing)
 
 <img src="https://drive.google.com/file/d/1-NdWWHU2DRuNMBm9ZHNMqeh7TcMdhBT9/view?usp=sharing" alt="example image of handwritten 1">
 
-<!-- ![example image of handwritten 2](https://drive.google.com/file/d/1-riq9jRMD15PILTJK9BtL8A9qlnz1Ks3/view?usp=sharing) -->
+![example image of handwritten 2](https://drive.google.com/file/d/1-riq9jRMD15PILTJK9BtL8A9qlnz1Ks3/view?usp=sharing)
 
 <img src="https://drive.google.com/file/d/1-riq9jRMD15PILTJK9BtL8A9qlnz1Ks3/view?usp=sharing" alt="example image of handwritten 2">
 
-<!-- ![example image of handwritten 5](https://drive.google.com/file/d/1-RNxCfaJftwKnOQ-PzJOz9Grdp_UWINY/view?usp=sharing) -->
+![example image of handwritten 5](https://drive.google.com/file/d/1-RNxCfaJftwKnOQ-PzJOz9Grdp_UWINY/view?usp=sharing)
+
 <img src="https://drive.google.com/file/d/1-RNxCfaJftwKnOQ-PzJOz9Grdp_UWINY/view?usp=sharing" alt="example image of handwritten 5">
+
+# LICENSE
+
+MIT
