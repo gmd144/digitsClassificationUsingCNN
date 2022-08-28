@@ -28,17 +28,11 @@ I also crafted a very small dataset to test the model and that data set can be a
 
 Some of the example images are shown below
 
-![example](https://drive.google.com/drive/folders/1-EzOmdXmAiJF5JMZIVX3A_n_dTI-fdud)
+![example image of handwritten 1](https://user-images.githubusercontent.com/69747203/187085097-cdda7841-12ae-4dbc-a39a-88081c4a3004.PNG)
 
-<img src="https://drive.google.com/file/d/1-NdWWHU2DRuNMBm9ZHNMqeh7TcMdhBT9/view?usp=sharing" alt="example image of handwritten 1">
+![example image of handwritten 2](https://user-images.githubusercontent.com/69747203/187085139-6e55e1e5-bd59-40a7-8646-bb156432a2ad.PNG)
 
-![example image of handwritten 2](https://drive.google.com/file/d/1-riq9jRMD15PILTJK9BtL8A9qlnz1Ks3/view?usp=sharing)
-
-<img src="https://drive.google.com/file/d/1-riq9jRMD15PILTJK9BtL8A9qlnz1Ks3/view?usp=sharing" alt="example image of handwritten 2">
-
-![example image of handwritten 5](https://drive.google.com/file/d/1-RNxCfaJftwKnOQ-PzJOz9Grdp_UWINY/view?usp=sharing)
-
-<img src="https://drive.google.com/file/d/1-RNxCfaJftwKnOQ-PzJOz9Grdp_UWINY/view?usp=sharing" alt="example image of handwritten 5">
+![example image of handwritten 5](https://user-images.githubusercontent.com/69747203/187085141-2804344f-236d-4d73-95e0-7c7cba819caf.PNG)
 
 # LICENSE
 
