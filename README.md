@@ -28,7 +28,7 @@ I also crafted a very small dataset to test the model and that data set can be a
 
 Some of the example images are shown below
 
-![example image of handwritten 1](https://drive.google.com/file/d/1-NdWWHU2DRuNMBm9ZHNMqeh7TcMdhBT9/view?usp=sharing)
+![example image of handwritten 1](https://drive.google.com/file/d/1-NdWWHU2DRuNMBm9ZHNMqeh7TcMdhBT9/view)
 
 <img src="https://drive.google.com/file/d/1-NdWWHU2DRuNMBm9ZHNMqeh7TcMdhBT9/view?usp=sharing" alt="example image of handwritten 1">
 
