@@ -18,11 +18,11 @@ The MNIST database contains 60,000 training images and 10,000 testing images.<a 
 # Project Structure
 ## Classification using the Feed Forward Neural Network
 
-I have used three <a href="https://keras.io/api/layers/core_layers/dense/" target="_blank">dense</a> layers to build the model. Since the images are 28x28 grayscale, so I have reshaped them to single dimension and normalized them so the pixel values are between 0 and 1. I used the Adam optimizer and the categorical_crossentropy as the loss function and the accuracy to evaluate my model. After training for 10 epochs I was able to get 98% accuracy on training set and 96.8% accuracy on test set.
+I have used three <a href="https://keras.io/api/layers/core_layers/dense/" target="\_blank">dense</a> layers to build the model. Since the images are 28x28 grayscale, so I have reshaped them to single dimension and normalized them so the pixel values are between 0 and 1. I used the Adam optimizer and the categorical_crossentropy as the loss function and the accuracy to evaluate my model. After training for 10 epochs I was able to get 98% accuracy on training set and 96.8% accuracy on test set.
 
 ## Classification using the CNN
 
-I used two <a href='https://keras.io/api/layers/convolution_layers/convolution2d/' target='_blank'>Conv2D</a> with maxpooling layer afterwards. Since I am using the Conv2D layers so no need to reshape the images, but still their values need to be normalized between 0 and 1. By using the same optimizer, loss function and evaluation metric. After training the model for 15 epochs I was able to achieve 98.9% accuracy on train set and 99.6% accuracy on test set.
+I used two [Conv2D](https://keras.io/api/layers/convolution_layers/convolution2d/){:target='\_blank'} with maxpooling layer afterwards. Since I am using the Conv2D layers so no need to reshape the images, but still their values need to be normalized between 0 and 1. By using the same optimizer, loss function and evaluation metric. After training the model for 15 epochs I was able to achieve 98.9% accuracy on train set and 99.6% accuracy on test set.
 
 I also crafted a very small dataset to test the model and that data set can be accessed <a href="https://drive.google.com/file/d/1MqC635Heb0jZ-i9dv7LP7_v9o4Vs8vf6/view?usp=sharing" target="_blank">here</a>
 
