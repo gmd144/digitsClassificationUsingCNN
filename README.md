@@ -22,7 +22,7 @@ I have used three <a href="https://keras.io/api/layers/core_layers/dense/" targe
 
 ## Classification using the CNN
 
-I used two [Conv2D](https://keras.io/api/layers/convolution_layers/convolution2d/){:target='\_blank'} with maxpooling layer afterwards. Since I am using the Conv2D layers so no need to reshape the images, but still their values need to be normalized between 0 and 1. By using the same optimizer, loss function and evaluation metric. After training the model for 15 epochs I was able to achieve 98.9% accuracy on train set and 99.6% accuracy on test set.
+I used two [Conv2D](https://keras.io/api/layers/convolution_layers/convolution2d/){:target="\_blank" rel="noopener"} with maxpooling layer afterwards. Since I am using the Conv2D layers so no need to reshape the images, but still their values need to be normalized between 0 and 1. By using the same optimizer, loss function and evaluation metric. After training the model for 15 epochs I was able to achieve 98.9% accuracy on train set and 99.6% accuracy on test set.
 
 I also crafted a very small dataset to test the model and that data set can be accessed <a href="https://drive.google.com/file/d/1MqC635Heb0jZ-i9dv7LP7_v9o4Vs8vf6/view?usp=sharing" target="_blank">here</a>
 
